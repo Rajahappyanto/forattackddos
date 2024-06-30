@@ -50,3 +50,4 @@ while True:
     print("Sent %s packet to %s through port:%s" % (sent, ip, port))
     if port == 65534:
         port = 1
+
